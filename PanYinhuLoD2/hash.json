@@ -1,0 +1,200 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "dcf5bb68",
+        "position_vb": "27909a51",
+        "blend_vb": "8d65101f",
+        "texcoord_vb": "08441733",
+        "ib": "1a952389",
+        "object_indexes": [
+            0,
+            6126,
+            6333,
+            18609
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c0928025"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7d3c4c3d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "42fc25f0"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c0928025"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7d3c4c3d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "42fc25f0"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f2433e17"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ddeaa4c3"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "de553410"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ed361b8f"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "96280008"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "57446a22"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hat",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "112fc018",
+        "position_vb": "f2a6cdde",
+        "blend_vb": "ee57b646",
+        "texcoord_vb": "4e9d7e70",
+        "ib": "307b301c",
+        "object_indexes": [
+            0,
+            1950
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f2433e17"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ddeaa4c3"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "de553410"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c0928025"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7d3c4c3d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "42fc25f0"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "055435b8",
+        "position_vb": "5a796299",
+        "blend_vb": "7ec02a18",
+        "texcoord_vb": "5219c5dd",
+        "ib": "17515264",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ed361b8f"
+                ]
+            ]
+        ]
+    }
+]

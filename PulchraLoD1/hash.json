@@ -1,0 +1,176 @@
+[
+    {
+        "component_name": "Face",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "d704bf57",
+        "position_vb": "ed162c10",
+        "blend_vb": "7e443147",
+        "texcoord_vb": "2a29bb4e",
+        "ib": "62de5837",
+        "object_indexes": [
+            0,
+            9774
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1626aafe"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1626aafe"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "b4f78e23",
+        "position_vb": "b4c577b6",
+        "blend_vb": "1c0480a3",
+        "texcoord_vb": "23d611e7",
+        "ib": "f676d3a5",
+        "object_indexes": [
+            0,
+            25404
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7fc03353"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d8462af0"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "d404b789"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "57be79d6"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "12c44063"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "a553df20"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Bracers",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "ec00e421",
+        "position_vb": "b02500bf",
+        "blend_vb": "4a00544d",
+        "texcoord_vb": "3a8eba24",
+        "ib": "24b923aa",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ebd6c100"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "798adba3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6f17d782"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "b8e1e3f6"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Mask",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "ad7643b7",
+        "position_vb": "9f91b7c2",
+        "blend_vb": "a7866fdd",
+        "texcoord_vb": "8fc3c4c3",
+        "ib": "89c9d851",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "46bab365"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "03d28ecd"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "6b141146"
+                ]
+            ]
+        ]
+    }
+]

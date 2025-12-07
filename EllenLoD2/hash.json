@@ -1,0 +1,113 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "3bf2a15c",
+        "position_vb": "35b6e5d2",
+        "blend_vb": "2d37bdf7",
+        "texcoord_vb": "db487b71",
+        "ib": "f50fc6f7",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "81ccd2e2"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "dc9d8b6e"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "01bb8189"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "ddeec9b7",
+        "position_vb": "93373059",
+        "blend_vb": "79741256",
+        "texcoord_vb": "66d6b48d",
+        "ib": "e9d3dbb4",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "163e2559"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ff26fb83"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f4487235"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "32c67c23",
+        "position_vb": "88417abf",
+        "blend_vb": "185b8851",
+        "texcoord_vb": "9750334c",
+        "ib": "2a52b991",
+        "object_indexes": [
+            0,
+            3906
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "465a66eb"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "465a66eb"
+                ]
+            ]
+        ]
+    }
+]

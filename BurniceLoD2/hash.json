@@ -1,0 +1,170 @@
+[
+    {
+        "component_name": "Face",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "d6908242",
+        "position_vb": "c8883655",
+        "blend_vb": "526fe906",
+        "texcoord_vb": "6d9727d9",
+        "ib": "75d14eba",
+        "object_indexes": [
+            0,
+            3822,
+            4866
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c4b6bb10"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c4b6bb10"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c4b6bb10"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "a4fddf45",
+        "position_vb": "195c3856",
+        "blend_vb": "e7f9b379",
+        "texcoord_vb": "be1c415e",
+        "ib": "b2dd09f4",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "50bf6521"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f4e05ee7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "c321481d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9fe5eb89",
+        "position_vb": "f34bbc9e",
+        "blend_vb": "c8f07cb1",
+        "texcoord_vb": "73c15e4a",
+        "ib": "9b6c4182",
+        "object_indexes": [
+            0,
+            6576,
+            8544
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "609b50a9"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bf0042b9"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "5f2840f1"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "609b50a9"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bf0042b9"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "5f2840f1"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "609b50a9"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bf0042b9"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "5f2840f1"
+                ]
+            ]
+        ]
+    }
+]

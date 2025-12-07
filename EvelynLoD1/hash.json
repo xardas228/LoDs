@@ -1,0 +1,287 @@
+[
+    {
+        "component_name": "Jacket",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "15e439bc",
+        "position_vb": "cb75111f",
+        "blend_vb": "1cb00c85",
+        "texcoord_vb": "14cd4bc9",
+        "ib": "95823363",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0e5c3c97"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e1434e0d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "b2718585"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "c6afc18c",
+        "position_vb": "fcbd52cb",
+        "blend_vb": "f9fc3c8b",
+        "texcoord_vb": "aa2f560e",
+        "ib": "ddf4efa6",
+        "object_indexes": [
+            0,
+            7203,
+            9537
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8e1d1a6f"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8e1d1a6f"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8e1d1a6f"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Shoulder",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "6f4c7514",
+        "position_vb": "30187e9b",
+        "blend_vb": "20875649",
+        "texcoord_vb": "143318ca",
+        "ib": "ee846a4b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a59b14c0"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d022d32c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "8624e4e4"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "83a8c2dc",
+        "position_vb": "9e466c9a",
+        "blend_vb": "62d8314a",
+        "texcoord_vb": "df1a1a48",
+        "ib": "917e3f13",
+        "object_indexes": [
+            0,
+            29937
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a59b14c0"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d022d32c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "8624e4e4"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a59b14c0"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d022d32c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "8624e4e4"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "f4d33af6",
+        "position_vb": "a47ea824",
+        "blend_vb": "c8a25634",
+        "texcoord_vb": "266e4d79",
+        "ib": "dc9ea2a0",
+        "object_indexes": [
+            0,
+            7656
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0e5c3c97"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e1434e0d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "b2718585"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0e5c3c97"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e1434e0d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "b2718585"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Ribbon",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "dceadf77",
+        "position_vb": "2f01202e",
+        "blend_vb": "8cca4400",
+        "texcoord_vb": "4b12acfe",
+        "ib": "27ae77d8",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0e5c3c97"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e1434e0d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "b2718585"
+                ]
+            ]
+        ]
+    }
+]

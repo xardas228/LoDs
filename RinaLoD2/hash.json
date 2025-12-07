@@ -1,0 +1,118 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "fe5fb676",
+        "position_vb": "e44d5a6f",
+        "blend_vb": "de7a2eda",
+        "texcoord_vb": "559cabbf",
+        "ib": "2a70b9bd",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "bf44bf67"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "95f4e9c8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "ed47722f"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "ec00e421",
+        "position_vb": "40abb73f",
+        "blend_vb": "e40e20a0",
+        "texcoord_vb": "7acb856d",
+        "ib": "5466a6eb",
+        "object_indexes": [
+            0,
+            4053
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "802a3281"
+                ],
+                [
+                    "LightMap",
+                    ".jpg",
+                    "9e00a8ad"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "802a3281"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hairandlegs",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "be203b58",
+        "position_vb": "4c47d862",
+        "blend_vb": "4872ef8a",
+        "texcoord_vb": "545a71c6",
+        "ib": "cf9116d5",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "eb5d9d1c"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1145d2b8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "82153e28"
+                ]
+            ]
+        ]
+    }
+]
