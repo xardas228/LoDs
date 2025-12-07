@@ -1,0 +1,95 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "7a685e2b",
+        "position_vb": "e139471c",
+        "blend_vb": "61283918",
+        "texcoord_vb": "e7a11c7b",
+        "ib": "0979298f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "5445121a",
+        "position_vb": "eaef5deb",
+        "blend_vb": "b3319ba9",
+        "texcoord_vb": "286f59f1",
+        "ib": "c6ea4c04",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "ShoulderAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "1dfb985b",
+        "position_vb": "4d12e0f3",
+        "blend_vb": "997ddf60",
+        "texcoord_vb": "eb232d3d",
+        "ib": "5ada9fbd",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "HipAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "394dedc6",
+        "position_vb": "5b6ab50a",
+        "blend_vb": "9af773f6",
+        "texcoord_vb": "af36b70f",
+        "ib": "e990851d",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Extras",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "398505e9",
+        "position_vb": "64b9f04a",
+        "blend_vb": "901daedb",
+        "texcoord_vb": "d198fd93",
+        "ib": "6a417740",
+        "object_indexes": [
+            0,
+            2568
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [],
+            []
+        ]
+    }
+]

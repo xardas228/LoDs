@@ -1,0 +1,116 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "a32d5929",
+        "position_vb": "631789da",
+        "blend_vb": "1b17e8fd",
+        "texcoord_vb": "2ac8e2ec",
+        "ib": "d50e7a1d",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d06e95fd",
+        "position_vb": "3f61a838",
+        "blend_vb": "9d325b4f",
+        "texcoord_vb": "28bfb2bd",
+        "ib": "09762ddc",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "ShoulderAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "05f2f6c4",
+        "position_vb": "544f3d89",
+        "blend_vb": "d92f8e82",
+        "texcoord_vb": "87b530a0",
+        "ib": "a7dc5c83",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "HipAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "fb0e451a",
+        "position_vb": "e34999bc",
+        "blend_vb": "6305ed0f",
+        "texcoord_vb": "55ac9718",
+        "ib": "11817908",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Extras",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d580271c",
+        "position_vb": "2ec412c1",
+        "blend_vb": "8e078cc5",
+        "texcoord_vb": "ad5ac918",
+        "ib": "5adfa89b",
+        "object_indexes": [
+            0,
+            1566
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "9b45d435",
+        "position_vb": "3c00ec52",
+        "blend_vb": "463ed244",
+        "texcoord_vb": "2b53001c",
+        "ib": "2d0374bb",
+        "object_indexes": [
+            0,
+            2772
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [],
+            []
+        ]
+    }
+]
