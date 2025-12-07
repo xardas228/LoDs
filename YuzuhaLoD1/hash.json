@@ -1,0 +1,287 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9ec3ab69",
+        "position_vb": "e7430424",
+        "blend_vb": "089bcbfc",
+        "texcoord_vb": "e397230e",
+        "ib": "722bc8ed",
+        "object_indexes": [
+            0,
+            11895
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "521a3242"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c400f5b7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3f70d124"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "521a3242"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c400f5b7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3f70d124"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "860c1a04",
+        "position_vb": "32dee399",
+        "blend_vb": "95043739",
+        "texcoord_vb": "d3ccbe5b",
+        "ib": "fd76b886",
+        "object_indexes": [
+            0,
+            11154
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "be85f061"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ef192425"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "76e5c6b7"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "be85f061"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ef192425"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "76e5c6b7"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Legs",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "925054cf",
+        "position_vb": "ba9dbab2",
+        "blend_vb": "2ce023a2",
+        "texcoord_vb": "62d77860",
+        "ib": "06360b3c",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "521a3242"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c400f5b7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3f70d124"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Kama",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "cb351492",
+        "position_vb": "0fcd9716",
+        "blend_vb": "4f4b736c",
+        "texcoord_vb": "c28c79f9",
+        "ib": "afb0a890",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "be85f061"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ef192425"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "76e5c6b7"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "3578d11c",
+        "position_vb": "0f6a425b",
+        "blend_vb": "52400cce",
+        "texcoord_vb": "9d0f7ef5",
+        "ib": "507384ea",
+        "object_indexes": [
+            0,
+            7206,
+            9600
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d394bc13"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d394bc13"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d394bc13"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "KamaStraps",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d22cd244",
+        "position_vb": "bb853c6b",
+        "blend_vb": "5930eb22",
+        "texcoord_vb": "cb636c33",
+        "ib": "18052b1d",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "be85f061"
+                ],
+                [
+                    "NormalMap",
+                    ".jpg",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ef192425"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "76e5c6b7"
+                ]
+            ]
+        ]
+    }
+]
