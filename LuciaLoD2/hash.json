@@ -1,0 +1,266 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "8abeb827",
+        "position_vb": "38f3a41a",
+        "blend_vb": "ee216343",
+        "texcoord_vb": "8b83c631",
+        "ib": "af693237",
+        "object_indexes": [
+            0,
+            5910
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5b0b47c9"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "243feee8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "211a5700"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5b0b47c9"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "243feee8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "211a5700"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "a66df987",
+        "position_vb": "6b77c235",
+        "blend_vb": "ae02e943",
+        "texcoord_vb": "97f3be38",
+        "ib": "40fa8197",
+        "object_indexes": [
+            0,
+            15621
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2ca45943"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f117c868"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "a16861d2"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2ca45943"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f117c868"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "a16861d2"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Cape",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9665aded",
+        "position_vb": "1889ba9a",
+        "blend_vb": "adf93e07",
+        "texcoord_vb": "9d433a52",
+        "ib": "a44a5267",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5b0b47c9"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "243feee8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "211a5700"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "CapeAccessory",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "f530ae41",
+        "position_vb": "b80d277e",
+        "blend_vb": "8f83244b",
+        "texcoord_vb": "89b26df7",
+        "ib": "d820ab37",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5b0b47c9"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "243feee8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "211a5700"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "d8ab8452",
+        "position_vb": "334332a0",
+        "blend_vb": "90eb551d",
+        "texcoord_vb": "e6aa4b05",
+        "ib": "9c194339",
+        "object_indexes": [
+            0,
+            1050,
+            1536
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "20a6224d"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "20a6224d"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "20a6224d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Purple",
+        "root_vs": "",
+        "draw_vb": "795b9f7c",
+        "position_vb": "795b9f7c",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "449dcd3a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    }
+]
