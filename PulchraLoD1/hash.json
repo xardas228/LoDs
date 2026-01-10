@@ -20,14 +20,14 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "1626aafe"
+                    "32f923f1"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "1626aafe"
+                    "32f923f1"
                 ]
             ]
         ]
@@ -37,7 +37,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "b4f78e23",
         "position_vb": "b4c577b6",
-        "blend_vb": "1c0480a3",
+        "blend_vb": "52abd43b",
         "texcoord_vb": "23d611e7",
         "ib": "f676d3a5",
         "object_indexes": [
@@ -57,7 +57,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -79,7 +79,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -118,7 +118,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "798adba3"
                 ],
                 [
@@ -157,7 +157,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
