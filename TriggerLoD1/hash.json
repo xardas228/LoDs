@@ -5,7 +5,7 @@
         "draw_vb": "8057c562",
         "position_vb": "ba455625",
         "blend_vb": "1a9a858c",
-        "texcoord_vb": "b9f0d595",
+        "texcoord_vb": "d4a12ab7",
         "ib": "40cd4182",
         "object_indexes": [
             0
@@ -18,7 +18,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "88728785"
+                    "cffc4b09"
                 ]
             ]
         ]
@@ -28,7 +28,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "d56c7ffd",
         "position_vb": "2f1143e0",
-        "blend_vb": "1d3a053d",
+        "blend_vb": "d16a0d20",
         "texcoord_vb": "15d5b1b3",
         "ib": "3289d63f",
         "object_indexes": [
@@ -46,7 +46,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -85,7 +85,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
