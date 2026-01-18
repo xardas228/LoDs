@@ -22,7 +22,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -38,7 +38,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "100a7af9",
         "position_vb": "9dab54e9",
-        "blend_vb": "1dfbfd0d",
+        "blend_vb": "f99c0a92",
         "texcoord_vb": "72baea0e",
         "ib": "6fe95b4a",
         "object_indexes": [
@@ -58,7 +58,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -80,7 +80,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
