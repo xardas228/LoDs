@@ -108,9 +108,9 @@
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "1b7feb9a",
-        "position_vb": "db6cf4b1",
+        "position_vb": "bd778385",
         "blend_vb": "3499327a",
-        "texcoord_vb": "f458ae64",
+        "texcoord_vb": "1436cf87",
         "ib": "af047694",
         "object_indexes": [
             0
