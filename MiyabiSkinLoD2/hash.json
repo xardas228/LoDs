@@ -3,10 +3,10 @@
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "87a0f865",
-        "position_vb": "b6217bb7",
-        "blend_vb": "28a0fe66",
-        "texcoord_vb": "846390db",
-        "ib": "dd64f28a",
+        "position_vb": "f0b6db84",
+        "blend_vb": "a00de0bf",
+        "texcoord_vb": "7422219f",
+        "ib": "963c005d",
         "object_indexes": [
             0
         ],
@@ -25,7 +25,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -45,10 +45,10 @@
         "component_name": "Torso",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "70088a4a",
-        "position_vb": "fd6a6b47",
-        "blend_vb": "56e3f813",
-        "texcoord_vb": "adb85636",
-        "ib": "9f992f95",
+        "position_vb": "e5e73163",
+        "blend_vb": "c3c4ac39",
+        "texcoord_vb": "b3a15e1d",
+        "ib": "fc4dda7b",
         "object_indexes": [
             0
         ],
@@ -63,11 +63,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "66724f5a"
+                    "4e6c90bd"
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -78,7 +78,7 @@
                 [
                     "MaterialMap",
                     ".dds",
-                    "1e1485e7"
+                    "30590865"
                 ]
             ]
         ]
@@ -87,10 +87,10 @@
         "component_name": "Legs",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "1c153094",
-        "position_vb": "2b266c6f",
-        "blend_vb": "c91df284",
-        "texcoord_vb": "1662890e",
-        "ib": "4cad2b6f",
+        "position_vb": "9a533085",
+        "blend_vb": "d28cd5b5",
+        "texcoord_vb": "1d9860c4",
+        "ib": "0ec2a954",
         "object_indexes": [
             0
         ],
@@ -109,7 +109,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [

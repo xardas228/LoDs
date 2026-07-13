@@ -28,7 +28,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -50,7 +50,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -88,11 +88,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "66724f5a"
+                    "4e6c90bd"
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
@@ -103,7 +103,7 @@
                 [
                     "MaterialMap",
                     ".dds",
-                    "1e1485e7"
+                    "30590865"
                 ]
             ]
         ]
@@ -134,7 +134,7 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
+                    ".dds",
                     "ebac056e"
                 ],
                 [
