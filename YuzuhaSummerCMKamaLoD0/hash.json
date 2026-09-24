@@ -1,0 +1,44 @@
+[
+    {
+        "component_name": "KamaCharacterMenu",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "b6e62152",
+        "position_vb": "9d4425e5",
+        "blend_vb": "2a45c137",
+        "texcoord_vb": "a7394f34",
+        "ib": "14ac0d52",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            16278
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4f4c2b65"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c3e64779"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "ac2f3dcb"
+                ]
+            ]
+        ]
+    }
+]
