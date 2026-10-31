@@ -13,7 +13,6 @@ The following agents and skins are **not included** or updated in this repositor
   * Hugo
   * Lighter
   * Phoenix
-  * Roxy
   * Trigger
 
 * **Missing / Unupdated Skins & Outfits:**
