@@ -12,7 +12,6 @@ The following agents and skins are **not included** or updated in this repositor
   * Banyue
   * Hugo
   * Lighter
-  * Phoenix
   * Trigger
 
 * **Missing / Unupdated Skins & Outfits:**
@@ -20,8 +19,8 @@ The following agents and skins are **not included** or updated in this repositor
   * Astra (Chandelier)
   * Billy (Starlight)
   * Ellen (Campus)
-  * Phoenix (Skin 1)
-  * Phoenix (Skin 2)
+  * Phoenix (Daydream)
+  * Phoenix (Ilness)
   * Velina (Leisure)
   * Yixuan (Trails of Ink)
 
