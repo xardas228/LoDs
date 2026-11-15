@@ -10,9 +10,7 @@ The following agents and skins are **not included** or updated in this repositor
 
 * **Missing / Unupdated Agents:**
   * Banyue
-  * Hugo
   * Lighter
-  * Trigger
 
 * **Missing / Unupdated Skins & Outfits:**
   * Alice (Summer)
@@ -22,6 +20,7 @@ The following agents and skins are **not included** or updated in this repositor
   * Phoenix (Daydream)
   * Phoenix (Ilness)
   * Velina (Leisure)
-  * Yixuan (Trails of Ink)
 
 ---
+
+Hugo, Trigger and Yixuan (TrailsOfInk) LoDs thanks to Nokedli
