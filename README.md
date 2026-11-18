@@ -14,13 +14,11 @@ The following agents and skins are **not included** or updated in this repositor
 
 * **Missing / Unupdated Skins & Outfits:**
   * Alice (Summer)
-  * Astra (Chandelier)
   * Billy (Starlight)
-  * Ellen (Campus)
   * Phoenix (Daydream)
   * Phoenix (Ilness)
   * Velina (Leisure)
 
 ---
 
-Hugo, Trigger and Yixuan (TrailsOfInk) LoDs thanks to Nokedli
+Hugo, Trigger and Yixuan (TrailsOfInk), Astra (Chandelier) and Ellen (Campus) LoDs thanks to Nokedli
